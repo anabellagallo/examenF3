@@ -1,0 +1,12 @@
+.button{
+    color: palevioletred;
+    border-radius: 3px solid;
+    
+    
+}
+.input{
+display:'flex';
+align-items: end;
+
+
+}
